@@ -160,11 +160,11 @@ box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
             box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3); }
 
             .reveal code {
-                font-family: monospace; }
+                font-family: monospace;}
 
                 .reveal pre code {
                     display: block;
-                    padding: 5px;
+                    padding: 15px;
                     overflow: auto;
                     max-height: 400px;
                     word-wrap: normal; }
@@ -215,7 +215,7 @@ box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
 *********************************************/
 .reveal a {
 color: #e7ad52;
-text-decoration: none;
+text-decoration: underline;
 -webkit-transition: color .15s ease;
 -moz-transition: color .15s ease;
 transition: color .15s ease; }

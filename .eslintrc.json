@@ -11,6 +11,9 @@
         },
         "allowImportExportEverywhere": false
     },
+    "extends": [
+        "standard"
+    ],
     "rules": {
         "semi": [2, "always"],
         "no-empty": 2,

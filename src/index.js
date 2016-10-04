@@ -1,4 +1,5 @@
-function hello(name)
-{
-	return `Hello ${name}!`;
+function hello(name) {
+    return `Hello ${name}!`;
 }
+
+hello('Alex');
