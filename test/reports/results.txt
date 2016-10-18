@@ -1,0 +1,10 @@
+
+[0m[0m
+[0m  Utils[0m
+[0m    Sum[0m
+    [32m  ✓[0m[90m Should return the sum of all arguments[0m
+    [32m  ✓[0m[90m Should return 0[0m
+
+
+[92m [0m[32m 2 passing[0m[90m (9ms)[0m
+
