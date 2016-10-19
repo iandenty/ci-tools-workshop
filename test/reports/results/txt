@@ -1,0 +1,14 @@
+
+[0m[0m
+[0m  Utils[0m
+[0m    getExtension[0m
+    [32m  ✓[0m[90m Should return only the file and extension from a path[0m
+[0m    return date in DD/MM/YYYY[0m
+    [32m  ✓[0m[90m Should return a string[0m
+    [32m  ✓[0m[90m Should be of length 10[0m
+    [32m  ✓[0m[90m Should have the date format as dd/mm/yyyy[0m
+    [32m  ✓[0m[90m Should return an "invalid date"[0m
+
+
+[92m [0m[32m 5 passing[0m[90m (10ms)[0m
+
